@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="copyright text-center mb-3">
             <p>
               © <span>Copyright</span>{" "}
-              <strong className="px-1 sitename">Shawon</strong>{" "}
+              <strong className="px-1 sitename">Sowrov</strong>{" "}
               <span>All Rights Reserved</span>
             </p>
           </div>
@@ -42,7 +42,7 @@ const Footer = () => {
             </a>{" "}
             Distributed by{" "}
             <a href="https://themewagon.com" target="_blank" rel="noreferrer">
-              Shaan's Theme
+              Sowrov's theme
             </a>
           </div>
         </div>
